@@ -8,9 +8,10 @@
     font-weight: 700;
     font-size: 30px;
     background-color: #799351;
-    color: #577b8d;
+    color: #eef7ff;
     padding: 11px;
     padding-right: 30px;
     margin: 1px solid #888;
     box-shadow: -1px 4px 1px 1px white;
+    overflow: hidden;
 }
