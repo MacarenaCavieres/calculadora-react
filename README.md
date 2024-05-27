@@ -1,6 +1,14 @@
 # Calculadora
 
-Aplicación creada con Vite + React, se inicializa proyecto con:
+Este proyecto es una calculadora simple creada con Vite y React. La calculadora permite realizar operaciones básicas como suma, resta, multiplicación y división.
+
+## Características
+
+-   Interfaz de usuario intuitiva y fácil de usar
+-   Operaciones aritméticas básicas: suma, resta, multiplicación y división
+-   Diseño responsive que se adapta a diferentes tamaños de pantalla
+
+Se inicializa proyecto con:
 
 ```sh
 npm create vite@latest
