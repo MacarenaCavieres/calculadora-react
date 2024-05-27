@@ -1,11 +1,14 @@
 import "./App.css";
 import Boton from "./componentes/boton.jsx";
+import Pantalla from "./componentes/pantalla.jsx";
+import BotonClear from "./componentes/botonClear.jsx";
 
 function App() {
     return (
         <div className="App">
             <div className="title">Calculadora</div>
             <div className="contenedor-calculadora">
+                <Pantalla />
                 <div className="fila">
                     <Boton>1</Boton>
                     <Boton>2</Boton>
@@ -30,7 +33,9 @@ function App() {
                     <Boton>.</Boton>
                     <Boton>/</Boton>
                 </div>
-                <div className="fila"></div>
+                <div className="fila">
+                    <BotonClear>Clear</BotonClear>
+                </div>
             </div>
         </div>
     );
