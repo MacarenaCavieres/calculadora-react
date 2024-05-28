@@ -1,6 +1,6 @@
 # Calculadora
 
-Este proyecto es una calculadora simple creada con Vite y React. La calculadora permite realizar operaciones básicas como suma, resta, multiplicación y división.
+Este proyecto es una calculadora simple creada con Vite y React. La calculadora permite realizar operaciones básicas como suma, resta, multiplicación y división. Puedes verla [aquí!](https://macarenacavieres.github.io/calculadora-react/)
 
 ## Características
 
